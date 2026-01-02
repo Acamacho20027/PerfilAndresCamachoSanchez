@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Fondo azul del sitio -->
+  <rect width="64" height="64" fill="#256EFF"/>
+  
+  <!-- Letra A blanca con barra horizontal - tamaño aumentado -->
+  <!-- Lado izquierdo de la A -->
+  <path d="M 32 8 L 14 56 L 18 56 L 20 48 L 22 40 Z" fill="#FFFFFF" stroke="none" opacity="1"/>
+  <!-- Lado derecho de la A -->
+  <path d="M 32 8 L 50 56 L 46 56 L 44 48 L 42 40 Z" fill="#FFFFFF" stroke="none" opacity="1"/>
+  <!-- Barra horizontal (palito) en el centro -->
+  <rect x="22" y="40" width="20" height="6" fill="#FFFFFF" rx="3" opacity="1"/>
+</svg>
+
