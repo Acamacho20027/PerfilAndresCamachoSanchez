@@ -1,13 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <!-- Fondo azul del sitio -->
-  <rect width="64" height="64" fill="#256EFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- Letra A con diseño muy llamativo: palitos gruesos y sólidos -->
+  <!-- Lado izquierdo de la A - BLANCO (muy grueso y sólido) -->
+  <path d="M 32 2 L 4 62 L 20 62 L 24 54 L 28 46 L 20 46 Z" fill="#FFFFFF" stroke="none" opacity="1"/>
   
-  <!-- Letra A blanca con barra horizontal - tamaño aumentado -->
-  <!-- Lado izquierdo de la A -->
-  <path d="M 32 8 L 14 56 L 18 56 L 20 48 L 22 40 Z" fill="#FFFFFF" stroke="none" opacity="1"/>
-  <!-- Lado derecho de la A -->
-  <path d="M 32 8 L 50 56 L 46 56 L 44 48 L 42 40 Z" fill="#FFFFFF" stroke="none" opacity="1"/>
-  <!-- Barra horizontal (palito) en el centro -->
-  <rect x="22" y="40" width="20" height="6" fill="#FFFFFF" rx="3" opacity="1"/>
+  <!-- Lado derecho de la A - AZUL (muy grueso y sólido) -->
+  <path d="M 32 2 L 60 62 L 44 62 L 40 54 L 36 46 L 44 46 Z" fill="#256EFF" stroke="none" opacity="1"/>
 </svg>
 
