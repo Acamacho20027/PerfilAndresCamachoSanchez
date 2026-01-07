@@ -1,0 +1,48 @@
+.perfil-circular {
+    width: 230px !important; 
+    height: 230px !important; 
+    object-fit: cover !important;
+    object-position: center 10% !important;
+    border-radius: 50% !important;
+    display: block;
+    margin: 0 auto; 
+}
+
+.card.post-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.card-body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.card-title {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+h2.card-title {
+    margin-bottom: 0 !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+}
+
+.card-title a {
+    white-space: nowrap !important;
+    font-size: 1.85rem !important;
+    display: block !important;
+    line-height: 1.2 !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+
+.perfil-circular:hover {
+    filter: none !important;
+    transform: none !important;
+}
+
